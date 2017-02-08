@@ -1,0 +1,54 @@
+nav{
+    background-color: midnightblue;
+    padding: 3%;
+    align: right;
+    color: white;
+    padding: 40px;
+}
+h1{
+align: "center";
+}
+a{
+    color: white;
+    alignment: right;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding-right: 10px;
+    padding-bottom: 15px;
+float: right;
+}
+fieldset{
+    width: 50%;
+    background-color: lavender;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    border-radius: 15px;
+}
+img{
+    height: 200px;
+    border-radius: inherit;
+}
+
+
+select{
+    color: #2e62ff;
+    float: left;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+table{
+    font-size: 20px;
+    float: left;
+
+
+}
+h2{
+    font-size: larger;
+    float: left;
+}
+h4{
+    font-size: large;
+    float: left;
+}
